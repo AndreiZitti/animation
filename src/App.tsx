@@ -1,4 +1,3 @@
-import React from "react";
 import { CoreTransforms, Staggered, Timelines, SvgLineDrawing, SvgMorphing } from "./index";
 
 const categories = [CoreTransforms, Staggered, Timelines, SvgLineDrawing, SvgMorphing];
